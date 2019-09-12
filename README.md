@@ -1,3 +1,11 @@
+# USAA Official Coding Challenge
+
+Software Prereqs: Java 1.8 SDK, Gradle, IntelliJ (IDE)
+Intellij Installation: https://www.jetbrains.com/idea/download
+Gradle Install: https://gradle.org/install/
+SDK: https://ninite.com/ Download AdoptOpenJDK
+
+
 problem 1:
 
     Endpoint: POST http://localhost:8080/usaaCodingChallenge/problem1
