@@ -40,7 +40,7 @@ problem 2:
     Send the Postman response from problem 1 as the body of a POST request 
     to the problem 2 endpoint. This will give you the byte code in the service layer 
     for an encrypted image. You will need to use an XOR decryption algorithm to decrypt 
-    the image file and return the decrypted bytes.
+    the image file and return the decrypted bytes. The byte to decrypt with is 1.
     
     Input Text:
     Response from problem 1
