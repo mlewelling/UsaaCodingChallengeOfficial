@@ -8,6 +8,7 @@ Gradle Install: https://gradle.org/install/
 
 SDK: https://ninite.com/ Download AdoptOpenJDK
 
+Postman Installation: https://www.getpostman.com/downloads/
 
 problem 1:
 
